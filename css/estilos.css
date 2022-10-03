@@ -1,6 +1,11 @@
-h1 {
-    font-family: "Arial";
-    text-align: center;
+/* Menú */
+#menu ul { 
     color: blue;
-    background-color: bisque;
+    font-family: "Arial";
+    font-weight: 400;
+    letter-spacing: 0.075em;
+    list-style: none;
+    margin-bottom: 0;
+    padding: 0;
+    text-transform: capitalize;
 }
