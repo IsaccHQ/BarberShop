@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+.header{
+	height: 120px;
+	width: 100%;
+	background-color: rgb(211, 211, 183);
+	justify-content:space-between;
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.logo{
+	width: 100px;
+	border-radius: 10px;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+    .nav_list{
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+    }
+
+    .list_item{
+        text-decoration: none;
+        background-color: black;
+        color: aliceblue;
+        padding: 5px;
+        border-radius: 5px;
+    }
+
+#nombre-sitio{
+    color: rgb(87, 79, 3);
+}
