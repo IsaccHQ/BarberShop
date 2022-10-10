@@ -42,4 +42,19 @@
 
 #nombre-sitio{
     color: rgb(87, 79, 3);
+.footer{
+	height: 100px;
+	width: 100%;
+	background-color: rgb(211, 211, 183);
+	color: antiquewhite;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+}
+
+.footer_list{
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	text-decoration: none;
 }
