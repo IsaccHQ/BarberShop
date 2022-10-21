@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "doc_ident": "1234",
+        "nombre": "Isacc",
+        "apellido": "Hernandez",
+        "email_cliente": "isacchernandezquiroga@gmail.com",
+        "telefono_cliente": "1111"
+    },
+
+    {
+        "id": 2,
+        "doc_ident": "12345",
+        "nombre": "José",
+        "apellido": "Tobias",
+        "email_cliente": "jose.diaz2@o365.unab.edu.co",
+        "telefono_cliente": "2222"
+    },
+
+    {
+        "id": 3,
+        "doc_ident": "123456",
+        "nombre": "Gustavo",
+        "apellido": "Acosta",
+        "email_cliente": "gustavo.acosta.cardona@hotmail.com",
+        "telefono_cliente": "3333"
+    },
+
+    {
+        "id": 4,
+        "doc_ident": "1234567",
+        "nombre": "Joel",
+        "apellido": "Berrio",
+        "email_cliente": "berriojoel65@gmail.com",
+        "telefono_cliente": "4444"
+    },
+    
+    {
+        "id": 5,
+        "doc_ident": "12345678",
+        "nombre": "Jean Carlos",
+        "apellido": "De Horta",
+        "email_cliente": "jeancarlos@gmail.com",
+        "telefono_cliente": "5555"
+    }
+
+]
